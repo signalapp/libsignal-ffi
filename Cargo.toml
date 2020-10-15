@@ -6,7 +6,7 @@ edition = "2018"
 
 [lib]
 name = "signal_ffi"
-crate-type = ["dylib"]
+crate-type = ["cdylib"]
 
 [dependencies]
 libsignal-protocol-rust = { git = "ssh://git@github.com/signalapp/libsignal-protocol-rust.git" }
