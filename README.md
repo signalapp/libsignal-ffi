@@ -1,7 +1,6 @@
 # Overview
 
-libsignal-ffi is a C ABI library which exposes Signal protocol logic
-to languages which can consume a C ABI, such as Swift.
+**This repository has been folded into [libsignal-client](https://github.com/signalapp/libsignal-client).**
 
 # Legal things
 ## Cryptography Notice
